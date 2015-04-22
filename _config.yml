@@ -1,10 +1,10 @@
 # Site settings
 title: pocketDSLR
-email: pocketdslr@gmail.com
+email: pocketDSLR@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The mobile photographer's best friend!
+  The mobile photographer's best friend
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://pocketDSLR.github.io" # the base hostname & protocol for your site
+url: "http://pocketDSLR.github.io" # the base hostname & protocol for your site
 github_username:  pocketDSLR
 
 # Build settings
