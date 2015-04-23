@@ -76,7 +76,7 @@ clients:
 - {avatar: 'brian.jpg',
   name: 'Brian Chen',
   title: 'Systems Administrator, UX Designer',
-  quote: '<p><strong>Working with Travis was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
+  quote: '<p><strong>Self proclaimed java fanatic.</strong>Junior at University of Alabama, majoring in Computer Science, I always try my hardest to become a better programmer.</p>',
   logo: 'clogo.png'
   }
 - {avatar: 'josh.jpg',
