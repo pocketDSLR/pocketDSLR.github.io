@@ -1,0 +1,99 @@
+#-------------------------------
+# General Site Settings
+
+title: pocketDSLR
+description: The intersection of mobility & photography
+email: pocketDSLR@gmail.com
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: About PocketDSLR, url: '#about-us'}
+- {name: Meet the Team, url: '#developers'}
+- {name: Contact Us, url: '#contact'}
+- {name: Deliverables, url: 'https://drive.google.com/folderview?id=0B__F0awhD2VHfnpCTl9tMVFJTktueGhqb1lpb291VnBvQWVvTTd5SEFrejZ0NUo0c0podXc&usp=sharing'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Provide a description for your website to make it visible to search engines.'
+  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+  **pocketDSLR - The mobile photographer's bestfriend.**
+  Utilizes the Android 5.0 APIs (v. 21), pocketDSLR presents a 
+  bare-bones, point-n-shoot DSLR camera experience in the form of fast 
+  responsive application. Various capabilities are included in pocketDSLR
+  which allow for complete customization and control over the onboard camera.
+  
+
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+
+
+
+
+#-------------------------------
+# Clients Section
+
+clients:
+- {avatar: 'chris.jpg',
+  name: 'Christopher Caruso',
+  title: 'Software Engineer, Microsoft Evangelist',
+  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
+  logo: 'clogo.png'
+  }
+- {avatar: 'brian.jpg',
+  name: 'Brian Chen',
+  title: 'Systems Administrator, UX Designer',
+  quote: '<p><strong>Working with Travis was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
+  logo: 'clogo.png'
+  }
+- {avatar: 'josh.jpg',
+  name: 'Joshua Wolfe',
+  title: 'Software Engieer, Web Developer',
+  contact: 'jbwolfe@crimson.ua.edu',
+  quote: '<p><strong>Yea, I guess I can use a computer or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
+  fact: 'I absolutely love snowboarding!',
+  logo: 'clogo.png'
+  }
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'github', link: 'https://github.com/pocketDSLR'}
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
