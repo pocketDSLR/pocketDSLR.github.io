@@ -70,7 +70,7 @@ clients:
 - {avatar: 'chris.jpg',
   name: 'Christopher Caruso',
   title: 'Software Engineer, Microsoft Evangelist',
-  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
+  quote: '<p>C# > Java. What else can I say?</p>',
   logo: 'clogo.png'
   }
 - {avatar: 'brian.jpg',
